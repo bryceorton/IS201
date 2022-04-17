@@ -1,0 +1,18 @@
+.body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    background-color: cornsilk;
+}
+.size{
+    font-size: x-large;
+    color: rgb(222, 29, 29);
+    
+}
+.color{
+    color: blue;
+}
+.underline{
+    text-decoration-line: underline;
+}
+

@@ -1,0 +1,22 @@
+
+    .body{
+        font-family:fantasy
+    }
+    .center{
+        text-align: center;
+    }
+    .copywrite{
+        text-align: center;
+        color: rgb(212, 212, 218);
+        
+    }
+    .backtotop{
+        text-align: center;
+    }
+    .bold{
+        color: rgb(98, 98, 100);
+    }
+    .middle{
+        text-align: center;
+        color: rgb(123, 53, 53);
+    }

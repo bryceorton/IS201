@@ -1,0 +1,68 @@
+
+    .font{
+         font-family: fantasy;
+
+    }
+
+    .body{
+        background-color: #d7e9f3;
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    }
+
+
+    .common{
+        background-color: rgb(216, 233, 250);
+        border: solid 2px,white;*/
+        position: absolute;
+
+    }
+
+    .header{
+        top: 5px;
+        left:5px;
+        right: 5px;
+        height: 100px;
+        z-index: 2;
+        border-bottom: solid 1px black;
+    }
+
+    .leftmenu{
+    top: 114;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 40px ;
+    border-right: solid 1px #555;
+
+    }
+
+
+    .rightmenu{
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+    width: 100px;
+    border-left: solid 1px black;
+    padding-left: 25opx;
+    }
+
+    .footer{
+        bottom: 50px;
+        height: 50px;
+        left: 5px;
+        right: 5px;
+        font-size: 5px;
+        color: rgb(11, 11, 11);
+        text-align: center;
+        position: fixed;
+
+    }
+        .link{
+        font-size: larger;
+    }
+    .size{
+        box-sizing: border-box;
+    }
+
+
